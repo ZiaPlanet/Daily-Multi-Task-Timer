@@ -94,10 +94,10 @@ This Python application allows users to create customizable timers with pie-char
 ## File Structure
 
 ```
+├── README.md           # Documentation
 timer-app/
 ├── timer_app.py        # Main application code
 ├── timer_configs.json  # Stores saved timer presets
-├── README.md           # Documentation
 ```
 
 ---
@@ -211,10 +211,10 @@ This project is licensed under the MIT License.
 ## 文件结构
 
 ```
+├── README.md           # Documentation
 timer-app/
 ├── timer_app.py        # 主程序代码
 ├── timer_configs.json  # 保存计时器预设
-├── README.md           # 文档
 ```
 
 ---

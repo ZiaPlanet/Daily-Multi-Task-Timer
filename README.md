@@ -72,6 +72,8 @@ This Python application allows users to create customizable timers with pie-char
 1. **Start the App**:
 
    - Run the script `timer_app.py`.
+   ![Number of timers](images/step1_numberoftimers.png)
+---
 
 2. **Define Timers**:
 
@@ -79,16 +81,24 @@ This Python application allows users to create customizable timers with pie-char
    - For each timer:
      - Select from a dropdown of saved presets or create a new one.
      - Input timer name and duration.
+<div style="display: flex; justify-content: space-around;">
+    <img src="images/step2_configs_nopreset.png" alt="Configs input without preset" width="30%">
+    <img src="assets/step2_preset.png" alt="Save as a new preset" width="30%">
+    <img src="assets/step2_configs_withreset.png" alt="Use preset" width="30%">
+</div>
+---
 
 3. **Control Timers**:
 
    - Click on a pie chart to start/stop the timer.
    - Reset timers using the reset button.
+   
 
 4. **Adjust Transparency**:
 
    - Use the transparency slider to set the desired window opacity.
 
+ ![Main window](images/step3_runningtimer.png)
 ---
 
 ## File Structure
@@ -96,8 +106,8 @@ This Python application allows users to create customizable timers with pie-char
 ```
 ├── README.md           # Documentation
 timer-app/
-├── timer_app.py        # Main application code
-├── timer_configs.json  # Stores saved timer presets
+    ├── timer_app.py        # Main application code
+    ├── timer_configs.json  # Stores saved timer presets
 ```
 
 ---
@@ -213,8 +223,8 @@ This project is licensed under the MIT License.
 ```
 ├── README.md           # Documentation
 timer-app/
-├── timer_app.py        # 主程序代码
-├── timer_configs.json  # 保存计时器预设
+    ├── timer_app.py        # 主程序代码
+    ├── timer_configs.json  # 保存计时器预设
 ```
 
 ---

@@ -72,8 +72,8 @@ This Python application allows users to create customizable timers with pie-char
 1. **Start the App**:
 
    - Run the script `timer_app.py`.
+   
    ![Number of timers](images/step1_numberoftimers.png)
----
 
 2. **Define Timers**:
 
@@ -83,10 +83,9 @@ This Python application allows users to create customizable timers with pie-char
      - Input timer name and duration.
 <div style="display: flex; justify-content: space-around;">
     <img src="images/step2_configs_nopreset.png" alt="Configs input without preset" width="30%">
-    <img src="assets/step2_preset.png" alt="Save as a new preset" width="30%">
-    <img src="assets/step2_configs_withreset.png" alt="Use preset" width="30%">
+    <img src="images/step2_preset.png" alt="Save as a new preset" width="30%">
+    <img src="images/step2_configs_withreset.png" alt="Use preset" width="30%">
 </div>
----
 
 3. **Control Timers**:
 
@@ -99,7 +98,6 @@ This Python application allows users to create customizable timers with pie-char
    - Use the transparency slider to set the desired window opacity.
 
  ![Main window](images/step3_runningtimer.png)
----
 
 ## File Structure
 

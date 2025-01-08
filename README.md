@@ -84,7 +84,7 @@ This Python application allows users to create customizable timers with pie-char
 <div style="display: flex; justify-content: space-around;">
     <img src="images/step2_configs_nopreset.png" alt="Configs input without preset" width="30%">
     <img src="images/step2_preset.png" alt="Save as a new preset" width="30%">
-    <img src="images/step2_configs_withreset.png" alt="Use preset" width="30%">
+    <img src="images/step2_configs_withpreset.png" alt="Use preset" width="30%">
 </div>
 
 3. **Control Timers**:
